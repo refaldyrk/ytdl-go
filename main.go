@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/refaldyrk/ytdl-go/service"
+	"github.com/refaldyrk/ytdl-go/v1/service"
 )
 
 func main() {

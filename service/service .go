@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/refaldyrk/ytdl-go/constant"
-	"github.com/refaldyrk/ytdl-go/dto"
+	"github.com/refaldyrk/ytdl-go/v1/constant"
+	"github.com/refaldyrk/ytdl-go/v1/dto"
 )
 
 // The YTDL type is a struct in the Go programming language.
